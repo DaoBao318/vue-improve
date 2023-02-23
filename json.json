@@ -1,0 +1,73 @@
+{
+    "productionWaterSupply": [
+        {
+            "classification": "productionWaterSupply",
+            "classificationName": "生产用水",
+            "waterProject": "通过旅客列车（设编组辆数为16辆，每辆车水箱容积qi）",
+            "unit": "对",
+            "recentQuantity": "1",
+            "forwardQuantity": "2",
+            "unitWater": "2",
+            "recentConsumption": "2",
+            "forwardConsumption": "4",
+            "recommendedConsumptionMin": "1",
+            "recommendedConsumptionMax": "4"
+        },
+        {
+            "classification": "productionWaterSupply",
+            "classificationName": "生产用水",
+            "waterProject": "通过旅客列车（设编组辆数为16辆，每辆车水箱容积qi）",
+            "unit": "对",
+            "recentQuantity": "1",
+            "forwardQuantity": "2",
+            "unitWater": "2",
+            "recentConsumption": "2",
+            "forwardConsumption": "4",
+            "recommendedConsumptionMin": "1",
+            "recommendedConsumptionMax": "4"
+        }
+    ],
+    "domesticWater": [
+        {
+            "classification": "domesticWater",
+            "classificationName": "生活用水",
+            "waterProject": "单身宿舍",
+            "unit": "床",
+            "recentQuantity": "1",
+            "forwardQuantity": "2",
+            "unitWater": "2",
+            "recentConsumption": "2",
+            "forwardConsumption": "4",
+            "recommendedConsumptionMin": "1",
+            "recommendedConsumptionMax": "4"
+        },
+        {
+            "classification": "domesticWater",
+            "classificationName": "生活用水",
+            "waterProject": "客机技术整备所食堂",
+            "unit": "人",
+            "recentQuantity": "1",
+            "forwardQuantity": "2",
+            "unitWater": "2",
+            "recentConsumption": "2",
+            "forwardConsumption": "4",
+            "recommendedConsumptionMin": "1",
+            "recommendedConsumptionMax": "4"
+        }
+    ],
+    "WaterForServiceIndustry": [
+        {
+            "classification": "WaterForServiceIndustry",
+            "classificationName": "服务行业用水",
+            "waterProject": "单身宿舍",
+            "unit": "",
+            "recentQuantity": "1",
+            "forwardQuantity": "0.8",
+            "unitWater": "0.9",
+            "recentConsumption": "（生产用水量小计+生活用水量小计）*0.8",
+            "forwardConsumption": "（生产用水量小计+生活用水量小计）*0.9",
+            "recommendedConsumptionMin": "1",
+            "recommendedConsumptionMax": "4"
+        }
+    ]
+}
